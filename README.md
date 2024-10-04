@@ -99,5 +99,10 @@ Comparison of model accuracy across Logistic Regression, Random Forest, and SVM.
 
 
 Trade-Off Between Precision and Recall: Depending on whether false negatives or false positives are more critical, different models provide varying balances between precision and recall.
+![Screenshot 2024-10-05 014701](https://github.com/user-attachments/assets/57a5d73e-771d-4c7a-87ed-189f0d6d7190)
+![Screenshot 2024-10-05 014601](https://github.com/user-attachments/assets/6d9dac2b-fd0a-43a5-8486-97673f4d7a02)
+![Screenshot 2024-10-05 014823](https://github.com/user-attachments/assets/b88ace1b-667f-42c4-9154-5096473a0c2a)
 
 
+#Contributing
+Contributions are welcome! Feel free to fork this repository, submit issues, and make pull requests to improve the model performance, add new visualizations, or implement additional machine learning algorithms.
